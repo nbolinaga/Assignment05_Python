@@ -1,0 +1,3 @@
+Low,Clean
+Vacuum,Medium
+Sweep,High
